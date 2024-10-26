@@ -1,0 +1,14 @@
+C:\Users\srira\source\repos\dotNetProject\dotNetProject\bin\Debug\net8.0\dotNetProject.exe
+C:\Users\srira\source\repos\dotNetProject\dotNetProject\bin\Debug\net8.0\dotNetProject.deps.json
+C:\Users\srira\source\repos\dotNetProject\dotNetProject\bin\Debug\net8.0\dotNetProject.runtimeconfig.json
+C:\Users\srira\source\repos\dotNetProject\dotNetProject\bin\Debug\net8.0\dotNetProject.dll
+C:\Users\srira\source\repos\dotNetProject\dotNetProject\bin\Debug\net8.0\dotNetProject.pdb
+C:\Users\srira\source\repos\dotNetProject\dotNetProject\obj\Debug\net8.0\dotNetProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srira\source\repos\dotNetProject\dotNetProject\obj\Debug\net8.0\dotNetProject.AssemblyInfoInputs.cache
+C:\Users\srira\source\repos\dotNetProject\dotNetProject\obj\Debug\net8.0\dotNetProject.AssemblyInfo.cs
+C:\Users\srira\source\repos\dotNetProject\dotNetProject\obj\Debug\net8.0\dotNetProject.csproj.CoreCompileInputs.cache
+C:\Users\srira\source\repos\dotNetProject\dotNetProject\obj\Debug\net8.0\dotNetProject.dll
+C:\Users\srira\source\repos\dotNetProject\dotNetProject\obj\Debug\net8.0\refint\dotNetProject.dll
+C:\Users\srira\source\repos\dotNetProject\dotNetProject\obj\Debug\net8.0\dotNetProject.pdb
+C:\Users\srira\source\repos\dotNetProject\dotNetProject\obj\Debug\net8.0\dotNetProject.genruntimeconfig.cache
+C:\Users\srira\source\repos\dotNetProject\dotNetProject\obj\Debug\net8.0\ref\dotNetProject.dll
